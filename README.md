@@ -2,16 +2,16 @@
 program that generates random quotes using JavaScript
 
 ### Project technology
-. Html
-. javascript
-. css
+*  Html
+*  javascript
+*  css
 
 ### quotes API
- . (quotes)[https://type.fit/api/quotes]
+ *  [quotes](https://type.fit/api/quotes)
  
  ### How run this project locally
- . clone this repo `git clone https://github.com/TuyizeeAnastase/random-quotes`.
- . open project directory
- . open `index.html` file in browser
+ *  clone this repo `git clone https://github.com/TuyizeeAnastase/random-quotes`.
+ *  open project directory
+ *  open `index.html` file in browser
  
 
