@@ -1,0 +1,27 @@
+.container {
+    margin: "10px";
+    padding: "10px";
+    display: "flex";
+    flex-wrap: "wrap";
+    justify-content: "center";
+    text-align: center;
+    background-color: whitesmoke;
+    margin: 10rem 0rem 0rem 40rem;
+    width: 20%;
+    padding: 4px;
+    border-radius: 10px;
+    border: 2px solid black;
+ }
+ .next{
+    background-color: rgb(11, 50, 50);
+    width: 150px;
+    border-radius: 25px;
+    font-size: large;
+    border-color: none;
+    padding: 4px;
+    color: white;
+ }
+ .next:hover{
+    background-color: whitesmoke;
+    color: rgb(11, 50, 50);
+ }
