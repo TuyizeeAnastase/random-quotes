@@ -10,8 +10,8 @@ program that generates random quotes using JavaScript
  . (quotes)[https://type.fit/api/quotes]
  
  ### How run this project locally
- . clone this repo `git clone https://github.com/TuyizeeAnastase/random-quotes.`
+ . clone this repo `git clone https://github.com/TuyizeeAnastase/random-quotes`.
  . open project directory
- . open `inde.html` file in browser
+ . open `index.html` file in browser
  
 
